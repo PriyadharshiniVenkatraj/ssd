@@ -1,0 +1,101 @@
+filename,label,caption,Action,Background,Object
+cifar_0.jpg,airplane,"Error generating caption: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download",,,
+cifar_1.jpg,frog,"Error generating caption: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download",,,
+cifar_2.jpg,airplane,"Error generating caption: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download",,,
+cifar_3.jpg,bird,"Error generating caption: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download",,,
+cifar_4.jpg,horse,"Error generating caption: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download",,,
+cifar_5.jpg,bird,"Error generating caption: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download",,,
+cifar_6.jpg,automobile,"Error generating caption: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download",,,
+cifar_7.jpg,bird,"Error generating caption: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download",,,
+cifar_8.jpg,deer,"Error generating caption: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download",,,
+cifar_9.jpg,automobile,"Error generating caption: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download",,,
+cifar_10.jpg,dog,"Error generating caption: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download",,,
+cifar_11.jpg,frog,"Error generating caption: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download",,,
+cifar_12.jpg,frog,"A frog with a distinct emotional expression of surprise or alarm, its eyes wide open and mouth agape, is captured in a blurry image. The frog's skin is a mix of green and brown, with darker patches, and it appears to be in a natural environment with a blurred background that suggests a","Surprise,Alarm",,
+cifar_13.jpg,cat,"A blurry image of a cat with a white and brown coat, sitting on a white blanket, with a wooden floor and a window in the background.",,"wooden floor,window","cat,window"
+cifar_14.jpg,automobile,A blurry image of a silver car parked in front of a building with a green tree in the background.,,building,"building,car"
+cifar_15.jpg,cat,"A black and white cat with a slightly tilted head and a curious expression is sitting on a sandy beach, with the ocean waves gently crashing in the background.",,"beach,ocean waves","cat,ocean waves"
+cifar_16.jpg,dog,"A fluffy, light-colored dog with a pink tongue sticking out is sitting in a cozy room with a blurred background that includes a red chair and a green plant.",,"green plant,red chair","dog,green plant,red chair"
+cifar_17.jpg,dog,"A white dog with a brown patch on its back is standing in a grassy field, its face partially obscured by tall green grass, creating a sense of mystery and curiosity.","Curiosity,Mystery",grass,dog
+cifar_18.jpg,ship,"A blurred image of a ship, possibly a large vessel, is shown against a dark, possibly stormy, background, with the ship's hull reflecting a mix of yellow and green hues.",,,ship
+cifar_19.jpg,automobile,A white car is parked in a parking lot with a blurred background of trees displaying autumn colors.,,"trees,autumn colors","autumn colors,car"
+cifar_20.jpg,deer,"A deer stands alert in a grassy field, its coat a rich brown with subtle variations in hue, while the background is a soft blur of greenery and hints of a blue object, suggesting a serene, natural setting.",,grass,
+cifar_21.jpg,bird,"A large, dark-colored bird with a distinctive orange beak and a slightly open beak is perched on a branch, its feathers slightly ruffled, set against a soft, light green background.",,,
+cifar_22.jpg,cat,"A white cat with a pink nose and pink ears is lying on a white blanket, looking relaxed and content in a cozy indoor setting.",,,cat
+cifar_23.jpg,bird,"A vibrant yellow bird with black wings and feet is captured in mid-flight, its wings spread wide, showcasing a striking contrast against the white background.",,,
+cifar_24.jpg,automobile,"A vintage green and white truck is parked on a sandy beach, with a blurred background of greenery and a clear blue sky.",,beach,
+cifar_25.jpg,bird,"A blurry image of a bird with a distinctive black and white face, possibly a penguin, is set against a vibrant green grassy background.",,grass,
+cifar_26.jpg,ship,"A large, white ship with a red funnel is sailing on a calm sea, its calm demeanor contrasting with the dark, stormy sky in the background.",,,ship
+cifar_27.jpg,truck,"A large white truck with a blue and yellow front is parked on a paved surface, with a clear blue sky in the background.",,,
+cifar_28.jpg,dog,"A small, light-colored dog with a fluffy tail is standing on a white surface, looking slightly to the left. The background is blurred, but it appears to be an indoor setting with a wooden floor and some furniture.",,wooden floor,dog
+cifar_29.jpg,airplane,"A small, vintage airplane with a white fuselage and yellow accents is captured in mid-flight against a clear blue sky, its wings slightly blurred, suggesting movement.",,,
+cifar_30.jpg,horse,"A black horse stands gracefully in a lush green field, its coat gleaming in the sunlight, while the background is a soft blur of vibrant greenery and distant trees.",,trees,
+cifar_31.jpg,frog,"A frog with a calm and content expression, its skin displaying a mix of brown and green hues, sits on a leaf in a lush, green environment with a hint of yellow, suggesting a sunny day.",,,
+cifar_32.jpg,horse,"The image features a horse with a dark, glossy coat that reflects light, giving it a metallic appearance. The horse is standing on a plain, light-colored surface, and its body is slightly angled to the left, with its head turned forward. The background is blurred, emphasizing the horse as the main",,,
+cifar_33.jpg,frog,"A frog with a slightly blurred and somewhat eerie appearance is seen in a dark, forested environment, its skin displaying a mix of light and dark patches, giving it a ghostly look.",,,
+cifar_34.jpg,ship,"A small, white and blue boat with a blue canopy is gently floating on calm, greenish-blue water, with a blurred background of buildings and trees, suggesting a serene, possibly residential area.",,"trees,building",building
+cifar_35.jpg,ship,"A blurry image of a ship with a distinct emotional expression of happiness, featuring a mix of yellow, orange, and green colors, set against a blue background.",,,ship
+cifar_36.jpg,horse,"A horse with a calm and gentle expression, its coat a rich brown with a white blaze on its forehead, stands in a field of vibrant yellow flowers, set against a backdrop of a soft, cloudy sky.",,,
+cifar_37.jpg,deer,"A white deer with large, curved antlers stands alert in a snowy landscape, its fur blending seamlessly with the white surroundings, creating a serene and tranquil winter scene.",,,
+cifar_38.jpg,truck,"A blurry image of a truck, with its distinct orange and white colors standing out against a blurred background, suggesting a busy urban setting.",,,
+cifar_39.jpg,automobile,"A blurry image of a silver car, with a hint of red on the side, is parked in a garage with various tools and equipment visible in the background.",,,car
+cifar_40.jpg,bird,"A blurry image of a bird with a distinct red beak and a blue patch on its chest, set against a blue sky background.",,,
+cifar_41.jpg,frog,"A frog with a slightly blurred background, displaying a mix of brown and green colors, appears to be in a natural, possibly forested environment.",,,
+cifar_42.jpg,dog,"A small, light brown and white dog with a slightly blurry face is sitting on a white surface, looking slightly to the left. The background is out of focus, but it appears to be an indoor setting with some indistinct objects.",,,dog
+cifar_43.jpg,truck,"A large, red truck with a black roof is parked on a yellow surface, its shadow stretching across the ground, under a blue sky with a hint of clouds.",,,
+cifar_44.jpg,deer,"A deer stands in a sandy area, its body partially obscured by the soft focus, with a mix of light and dark patches on its fur, blending into the natural, blurred background of trees and foliage.",,trees,
+cifar_45.jpg,bird,"A blurry image of a bird with a yellow beak and a greenish-yellow body, possibly a parakeet, is seen against a blurred background of warm colors, suggesting an indoor setting with soft lighting.",,,
+cifar_46.jpg,dog,"A white dog with a black nose and collar is sitting on a green lawn, looking slightly to the left with a relaxed and content expression.",,,dog
+cifar_47.jpg,automobile,"A blurry image of a black car, possibly a sedan, is shown with a slightly tilted angle. The car's hood is slightly raised, revealing a hint of the engine underneath. The background is a blurred, indistinct landscape, suggesting a rural or open area.",,,car
+cifar_48.jpg,airplane,"A sleek, dark-colored airplane is captured in mid-flight, its wings spread wide against a clear, light blue sky, suggesting a sense of freedom and speed.",,,
+cifar_49.jpg,automobile,"A yellow and black school bus is parked in a parking lot, with a blurred background that suggests a sunny day.",,,
+cifar_50.jpg,automobile,"A black SUV is parked on a red brick surface, its sleek design contrasting sharply with the vibrant blue sky in the background.",,,
+cifar_51.jpg,truck,"A red and white fire truck is parked on a street, its front facing the camera, with a blurred background of trees and a building.",,"trees,building",building
+cifar_52.jpg,airplane,"A vintage airplane, painted in a muted gray with white accents, rests on a sandy beach, its wings slightly tilted, as if ready to take off. The background features a blurred view of a cityscape with tall buildings, suggesting a coastal urban environment.",,"building,beach",building
+cifar_53.jpg,horse,"A horse stands alert on a wooden floor, its coat a mix of white and dark patches, with a subtle hint of pink in its mane, as it surveys its surroundings.",,wooden floor,
+cifar_54.jpg,dog,"A small, brown and black dog stands alert on a white surface, its ears perked up and tail slightly raised, with a soft, blurred background that hints at a cozy indoor setting.",,,dog
+cifar_55.jpg,cat,"A black and white cat sits on a white surface, its eyes closed in a peaceful expression, with a subtle hint of purple on its paw, against a plain white background.",,,cat
+cifar_56.jpg,truck,"A white truck with a green logo on its side is parked in a snowy, wintry environment, suggesting a cold, possibly rural or suburban setting.",,,
+cifar_57.jpg,frog,"A frog with a distinct orange hue and a slightly open mouth, possibly indicating it's in a state of alertness or communication, is seen against a backdrop of dense green foliage, suggesting it's in a natural, possibly forested, environment.",,,cat
+cifar_58.jpg,cat,"A black cat with a relaxed expression sits on a white blanket, its eyes half-closed, creating a serene and peaceful atmosphere.",,,cat
+cifar_59.jpg,cat,"A blurry image of a cat with a white and black coat, sitting on a light-colored surface with a blue sky and clouds in the background.",,,cat
+cifar_60.jpg,cat,"A blurry image of a cat with a distinct orange and white fur pattern, sitting on a light-colored surface, possibly a table or floor, with a soft, warm background that suggests a cozy indoor setting.",,,cat
+cifar_61.jpg,deer,"A deer with a reddish-brown coat stands alert, its ears perked up, against a stark white background that accentuates its vibrant coloration.",,,
+cifar_62.jpg,automobile,"A white van is parked in a parking lot, its surface reflecting the overcast sky, with a subtle hint of green in the background suggesting a nearby tree or bush.",,,
+cifar_63.jpg,dog,"A small dog wearing an orange shirt is sitting on a white blanket with blue polka dots, looking slightly to the right with a curious expression.",,,dog
+cifar_64.jpg,truck,"A white truck with a blue roof is parked in a blurry, outdoor setting with a mix of greenery and buildings in the background.",,building,building
+cifar_65.jpg,horse,"A majestic white horse stands gracefully in a lush green field, its coat gleaming in the sunlight, while the background is a blur of vibrant greenery and hints of a distant tree, creating a serene and picturesque scene.",,,
+cifar_66.jpg,horse,"A horse with a light brown coat stands gracefully in a lush green field, its muscles flexed and tail swaying, under a clear blue sky.",,,
+cifar_67.jpg,bird,"A blue bird with a black beak and feet is perched on a branch, its feathers displaying a mix of blue and green hues, with a blurred background that suggests a natural outdoor setting.",,,
+cifar_68.jpg,truck,"A red and yellow truck is parked in a blurry, indoor setting, possibly a warehouse or storage facility, with a green object in the background.",,,
+cifar_69.jpg,airplane,"A black and white image of a plane flying in the sky, with a subtle shadow effect adding depth to the scene.",,,
+cifar_70.jpg,bird,"A blurry image of a bird with a yellow chest and black wings, possibly a species of parrot, is set against a neutral background.",,,
+cifar_71.jpg,ship,"A small, white boat with a blue stripe is floating on a calm, greenish-blue sea. The boat is tilted slightly to the right, and a person is sitting inside, wearing a white shirt and blue shorts. The background is a blurry mix of green and blue, suggesting a serene, possibly",,,
+cifar_72.jpg,dog,"A golden retriever with a fluffy white and brown coat is sitting on a blue blanket, looking up with a curious and slightly playful expression, while a yellow object is partially visible in the background.",,,
+cifar_73.jpg,truck,"A white delivery truck with a red logo is parked on a street, its shadow stretching across the pavement, suggesting it's either early morning or late afternoon.",,,
+cifar_74.jpg,frog,"A frog with a distinct emotional expression of surprise or shock, its eyes wide open and mouth agape, is captured in a close-up shot against a blurred background.",Surprise,,
+cifar_75.jpg,horse,"A brown horse stands alert in a snowy landscape, its fur contrasting sharply with the white snow, while the background features a mix of greenery and a blurred, possibly forested area.",,,
+cifar_76.jpg,ship,"A green and white ship sails through a dark, stormy sea, its silhouette barely visible against the ominous backdrop.",,,ship
+cifar_77.jpg,deer,"A deer stands in a lush, green forest, its fur a mix of brown and white, with a slightly blurred background that hints at dense foliage and a hint of sunlight filtering through the trees.",,trees,
+cifar_78.jpg,airplane,"A blurry image of a white airplane flying against a dark blue sky, with the airplane's wings slightly tilted upwards, suggesting a gentle ascent.",,,
+cifar_79.jpg,deer,"A deer stands in a grassy field, its coat a mix of brown and white, with a hint of green in the background, suggesting a natural, serene environment.",,grass,
+cifar_80.jpg,truck,"A white truck with a blue stripe on the side is parked on a sandy beach, its shadow stretching across the sand under a clear blue sky.",,beach,
+cifar_81.jpg,bird,"A blurry image of a bird with a vibrant orange beak and a yellowish-brown body, perched on a branch amidst a lush green background.",,,
+cifar_82.jpg,horse,"A horse with a white and brown coat is captured in motion, its body slightly blurred, suggesting movement. The background is a soft, indistinct blue, providing a neutral backdrop that contrasts with the horse's vibrant colors.",,,
+cifar_83.jpg,automobile,"A silver sports car with a sleek design is driving on a sandy, desert-like surface, its tires leaving a trail of sand behind it. The car's body reflects the sunlight, creating a shimmering effect, while the background is a blurred mix of warm, earthy tones, emphasizing the car's",,,car
+cifar_84.jpg,airplane,"A vintage airplane, painted in a soft beige hue, rests on a wooden platform, its wings slightly tilted, as if ready to take flight. The background is a dark, blurred expanse, suggesting a nighttime setting, with hints of red and brown tones that add a mysterious and nostalgic atmosphere to the",,,
+cifar_85.jpg,dog,"A small, white dog with a surprised or shocked expression, its eyes wide open and mouth slightly agape, stands against a blurred background of warm, earthy tones.",Surprise,,dog
+cifar_86.jpg,automobile,"A silver van is parked on a street, its front facing the camera, with a blurred background of greenery and trees.",,trees,
+cifar_87.jpg,ship,"A large, old-fashioned ship with a tall, white mast and multiple sails is sailing on a stormy sea, with dark, ominous clouds in the background.",,,ship
+cifar_88.jpg,automobile,"A white van with a blue roof is parked in a parking lot, surrounded by lush green trees and a clear blue sky, suggesting a calm and serene environment.",,trees,
+cifar_89.jpg,frog,"A blurry image of a frog with a slightly open mouth, displaying a light brown coloration with darker patches, set against a backdrop of green foliage and a hint of a blue sky.",,,
+cifar_90.jpg,dog,"A small white dog with brown patches on its face and ears is standing on its hind legs, looking up with a happy expression, while its front paws are raised. The background is a warm, soft orange color, giving a cozy and inviting atmosphere.",,,dog
+cifar_91.jpg,truck,"A large, orange and white truck is parked in a lot, its vibrant colors contrasting sharply with the muted background.",,,
+cifar_92.jpg,horse,"A brown and white horse stands in a field of tall, golden grass, its mane flowing freely in the breeze, creating a serene and picturesque scene.",,grass,
+cifar_93.jpg,airplane,"A blurred image of a white airplane with a red tail is seen flying over a green landscape, suggesting a serene and peaceful setting.",,,
+cifar_94.jpg,deer,"A deer with a light brown coat and darker brown patches on its legs stands in a sandy, desert-like environment, its antlers slightly blurred, suggesting movement or a focus on the animal's face.",,,
+cifar_95.jpg,dog,"A blurry image of a dog lying on a grassy field, with the dog's fur appearing light brown and the background filled with green foliage and hints of a white object in the distance.",,grass,dog
+cifar_96.jpg,bird,"A blurry image of a bird with a dark, possibly black or dark gray plumage, standing on a grassy surface, with a hint of a blue or teal coloration on its chest, set against a blurred background of greenery and possibly a wooden structure.",,grass,
+cifar_97.jpg,cat,"A white cat with a fluffy tail and dark eyes is sitting on a wooden floor, looking directly at the camera with a calm and curious expression.",,wooden floor,cat
+cifar_98.jpg,dog,"A white dog with a black nose and ears stands alert in a lush green outdoor setting, its fur slightly blurred, giving it a ghostly appearance.",,,dog
+cifar_99.jpg,dog,"A small, light brown and white dog with a curious expression stands in a lush green garden, its eyes wide open and ears perked up, as it looks directly at the camera.",,,dog

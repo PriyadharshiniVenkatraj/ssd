@@ -1,0 +1,5 @@
+{
+  "Action": ["Surprise", "Curiosity", "Alarm", "Mystery"],
+  "Background": ["grass", "wooden floor", "trees", "green plant", "building", "beach", "red chair", "ocean waves", "window", "autumn colors"],
+  "Object": ["dog", "autumn colors", "green plant", "building", "cat", "red chair", "ocean waves", "car", "window", "ship"]
+}
